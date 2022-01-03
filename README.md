@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharlesLedbetter
-- 👀 I’m interested in API development and design and UI development.
+- 👀 I’m interested in API and UI design and development.
 
 
 
